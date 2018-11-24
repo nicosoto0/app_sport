@@ -1,4 +1,4 @@
-# Project Dieto
+# Project App Sport
 
 This is the project of the frontend Apps Sport develop by Nicolás Soto, for the team of him self and Gonzalo Valdivia and Javier Concha
 
